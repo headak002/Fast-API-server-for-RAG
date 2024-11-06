@@ -32,7 +32,7 @@ This project provides an efficient FastAPI server designed for **Retrieval-Augme
 ### Installation Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<username>/fastapi-rag-server.git
+   git clone https://github.com/headak002/Fast-API-server-for-RAG.git
    cd fastapi-rag-server
    ```
 
@@ -113,7 +113,7 @@ Send a `GET` request to `/query/` with your search query.
 ## Contributing
 We welcome contributions! Feel free to submit a pull request with your enhancements or bug fixes.
 
-For any questions or support, please reach out via email at [kulshreshthachauhan12@gmail.com](mailto:kulshreshthachauhan12@gmail.com) or visit my GitHub profile: [kulshreshthachauhan](https://github.com/kulshreshthachauhan).
+For any questions or support, please reach out via email at [akshat002g@gmail.com](mailto:akshat002g@gmail.com) or visit my GitHub profile: [headak002](https://github.com/headak002).
 
 ## License
 This project is licensed under the MIT License.
